@@ -2,6 +2,6 @@
 
 <p align="center">
     <a href="https://github.com/nikita-go">
-        <img src="https://github-readme-stats.vercel.app/api?username=nikita-go&theme=tokyonight&show_icons=true&hide_border=true" alt="nikita-go's github stats">
+        <img src="https://github-readme-stats-fmra.vercel.app/api?username=nikita-go&theme=tokyonight&show_icons=true&hide_border=true" alt="nikita-go's github stats">
     </a>
 </p>
